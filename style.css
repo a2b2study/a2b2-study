@@ -22,7 +22,7 @@ position:relative;   /* IMPORTANT */
 /* LEFT LOGO */
 .hero-logo{
 position:absolute;
-left:300px;
+left:200px;
 top:60px;
 width:130px;          /* chhota logo */
 height:auto;
@@ -123,3 +123,4 @@ width:28px;
 font-size:32px;
 }
 }
+
